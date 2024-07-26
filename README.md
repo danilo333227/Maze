@@ -1,2 +1,2 @@
 # Maze
-# This is maze game
+ This is maze game
